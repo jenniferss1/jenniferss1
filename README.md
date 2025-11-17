@@ -5,6 +5,7 @@
 </picture>
 
 <h1 align="center">Jennifer 👩‍💻</h1>
+<p align="center">Computer Science @ Anhembi Morumbi · Aspiring Backend Engineer · </p>
 
 
 <p align="center">

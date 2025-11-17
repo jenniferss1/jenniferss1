@@ -4,8 +4,20 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jenniferss1/jenniferss1/output/github-contribution-grid-snake.svg">
 </picture>
 
-
 <h1 align="center">Jennifer 👩‍💻</h1>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jenniferss1&theme=material-palenight&show_icons=true&hide_border=true&count_private=true">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenniferss1&theme=material-palenight&show_icons=true&hide_border=true&layout=compact">
+</p>
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jenniferss1&theme=material-palenight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+</p>
+
 
 
 <h3 align="left">Connect with me!</h3>

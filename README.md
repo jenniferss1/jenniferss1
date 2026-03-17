@@ -5,18 +5,25 @@
 </picture>
 
 <h1 align="center">Jennifer 👩‍💻</h1>
-<p align="center">Computer Science @ Anhembi Morumbi · Aspiring Backend Engineer · </p>
+<p align="center">Computer Science @ Anhembi Morumbi · Aspiring fullstack Engineer · </p>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jenniferss1&theme=material-palenight&show_icons=true&hide_border=true&count_private=true">
-</p>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=jenniferss1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenniferss1&theme=material-palenight&show_icons=true&hide_border=true&layout=compact">
-</p>
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jenniferss1&theme=material-palenight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenniferss1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
 </p>
 
 
